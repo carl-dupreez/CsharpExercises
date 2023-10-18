@@ -1,0 +1,15 @@
+c:\Dev\CsharpExercises\Interface Exercise\bin\Debug\net6.0\Interface Exercise.exe
+c:\Dev\CsharpExercises\Interface Exercise\bin\Debug\net6.0\Interface Exercise.deps.json
+c:\Dev\CsharpExercises\Interface Exercise\bin\Debug\net6.0\Interface Exercise.runtimeconfig.json
+c:\Dev\CsharpExercises\Interface Exercise\bin\Debug\net6.0\Interface Exercise.dll
+c:\Dev\CsharpExercises\Interface Exercise\bin\Debug\net6.0\Interface Exercise.pdb
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.csproj.AssemblyReference.cache
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.AssemblyInfoInputs.cache
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.AssemblyInfo.cs
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.csproj.CoreCompileInputs.cache
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.dll
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\refint\Interface Exercise.dll
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.pdb
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\Interface Exercise.genruntimeconfig.cache
+c:\Dev\CsharpExercises\Interface Exercise\obj\Debug\net6.0\ref\Interface Exercise.dll

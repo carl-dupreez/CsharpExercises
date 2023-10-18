@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CsharpExercises\\Abstract Exercise\\Abstract Exercise.csproj": {}
+    "c:\\Dev\\CsharpExercises\\Interface Exercise\\Interface Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CsharpExercises\\Abstract Exercise\\Abstract Exercise.csproj": {
+    "c:\\Dev\\CsharpExercises\\Interface Exercise\\Interface Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CsharpExercises\\Abstract Exercise\\Abstract Exercise.csproj",
-        "projectName": "Abstract Exercise",
-        "projectPath": "C:\\Dev\\CsharpExercises\\Abstract Exercise\\Abstract Exercise.csproj",
+        "projectUniqueName": "c:\\Dev\\CsharpExercises\\Interface Exercise\\Interface Exercise.csproj",
+        "projectName": "Interface Exercise",
+        "projectPath": "c:\\Dev\\CsharpExercises\\Interface Exercise\\Interface Exercise.csproj",
         "packagesPath": "C:\\Users\\Carl\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CsharpExercises\\Abstract Exercise\\obj\\",
+        "outputPath": "c:\\Dev\\CsharpExercises\\Interface Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carl\\AppData\\Roaming\\NuGet\\NuGet.Config"

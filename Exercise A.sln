@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Override Exercise", "Overri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Exercise", "Abstract Exercise\Abstract Exercise.csproj", "{62B12CE4-88D7-4532-BE39-4B6136FFEF98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface Exercise", "Interface Exercise\Interface Exercise.csproj", "{1AB07A6A-57F5-44C3-B3C3-8AB45E1D19B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{62B12CE4-88D7-4532-BE39-4B6136FFEF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62B12CE4-88D7-4532-BE39-4B6136FFEF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62B12CE4-88D7-4532-BE39-4B6136FFEF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB07A6A-57F5-44C3-B3C3-8AB45E1D19B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB07A6A-57F5-44C3-B3C3-8AB45E1D19B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB07A6A-57F5-44C3-B3C3-8AB45E1D19B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB07A6A-57F5-44C3-B3C3-8AB45E1D19B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
