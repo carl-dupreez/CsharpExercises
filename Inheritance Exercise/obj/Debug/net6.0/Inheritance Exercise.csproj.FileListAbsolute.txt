@@ -1,0 +1,15 @@
+c:\Dev\CsharpExercises\Inheritance Exercise\bin\Debug\net6.0\Inheritance Exercise.exe
+c:\Dev\CsharpExercises\Inheritance Exercise\bin\Debug\net6.0\Inheritance Exercise.deps.json
+c:\Dev\CsharpExercises\Inheritance Exercise\bin\Debug\net6.0\Inheritance Exercise.runtimeconfig.json
+c:\Dev\CsharpExercises\Inheritance Exercise\bin\Debug\net6.0\Inheritance Exercise.dll
+c:\Dev\CsharpExercises\Inheritance Exercise\bin\Debug\net6.0\Inheritance Exercise.pdb
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.csproj.AssemblyReference.cache
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.AssemblyInfoInputs.cache
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.AssemblyInfo.cs
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.csproj.CoreCompileInputs.cache
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.dll
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\refint\Inheritance Exercise.dll
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.pdb
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\Inheritance Exercise.genruntimeconfig.cache
+c:\Dev\CsharpExercises\Inheritance Exercise\obj\Debug\net6.0\ref\Inheritance Exercise.dll
