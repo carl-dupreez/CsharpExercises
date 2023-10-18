@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise B", "Exercise B\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise C", "Exercise C\Exercise C.csproj", "{1550C608-4F20-4F6B-8982-D489B767AA75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Exercise A", "Class Exercise A\Class Exercise A.csproj", "{D5D8390F-27C1-47FF-99EA-66DCEB7B25F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{1550C608-4F20-4F6B-8982-D489B767AA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1550C608-4F20-4F6B-8982-D489B767AA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1550C608-4F20-4F6B-8982-D489B767AA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D8390F-27C1-47FF-99EA-66DCEB7B25F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D8390F-27C1-47FF-99EA-66DCEB7B25F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D8390F-27C1-47FF-99EA-66DCEB7B25F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D8390F-27C1-47FF-99EA-66DCEB7B25F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

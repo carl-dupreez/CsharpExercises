@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Exercise B\\Exercise B.csproj": {}
+    "c:\\Dev\\Class Exercise A\\Class Exercise A.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Exercise B\\Exercise B.csproj": {
+    "c:\\Dev\\Class Exercise A\\Class Exercise A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Exercise B\\Exercise B.csproj",
-        "projectName": "Exercise B",
-        "projectPath": "C:\\Dev\\Exercise B\\Exercise B.csproj",
+        "projectUniqueName": "c:\\Dev\\Class Exercise A\\Class Exercise A.csproj",
+        "projectName": "Class Exercise A",
+        "projectPath": "c:\\Dev\\Class Exercise A\\Class Exercise A.csproj",
         "packagesPath": "C:\\Users\\carl\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Exercise B\\obj\\",
+        "outputPath": "c:\\Dev\\Class Exercise A\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carl\\AppData\\Roaming\\NuGet\\NuGet.Config"

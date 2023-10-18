@@ -1,0 +1,15 @@
+c:\Dev\Class Exercise A\bin\Debug\net6.0\Class Exercise A.exe
+c:\Dev\Class Exercise A\bin\Debug\net6.0\Class Exercise A.deps.json
+c:\Dev\Class Exercise A\bin\Debug\net6.0\Class Exercise A.runtimeconfig.json
+c:\Dev\Class Exercise A\bin\Debug\net6.0\Class Exercise A.dll
+c:\Dev\Class Exercise A\bin\Debug\net6.0\Class Exercise A.pdb
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.csproj.AssemblyReference.cache
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.AssemblyInfoInputs.cache
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.AssemblyInfo.cs
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.csproj.CoreCompileInputs.cache
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.dll
+c:\Dev\Class Exercise A\obj\Debug\net6.0\refint\Class Exercise A.dll
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.pdb
+c:\Dev\Class Exercise A\obj\Debug\net6.0\Class Exercise A.genruntimeconfig.cache
+c:\Dev\Class Exercise A\obj\Debug\net6.0\ref\Class Exercise A.dll
