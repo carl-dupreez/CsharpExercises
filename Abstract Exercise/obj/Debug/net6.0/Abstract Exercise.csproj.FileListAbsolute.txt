@@ -1,0 +1,15 @@
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.csproj.AssemblyReference.cache
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.AssemblyInfoInputs.cache
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.AssemblyInfo.cs
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.csproj.CoreCompileInputs.cache
+c:\Dev\CsharpExercises\Abstract Exercise\bin\Debug\net6.0\Abstract Exercise.exe
+c:\Dev\CsharpExercises\Abstract Exercise\bin\Debug\net6.0\Abstract Exercise.deps.json
+c:\Dev\CsharpExercises\Abstract Exercise\bin\Debug\net6.0\Abstract Exercise.runtimeconfig.json
+c:\Dev\CsharpExercises\Abstract Exercise\bin\Debug\net6.0\Abstract Exercise.dll
+c:\Dev\CsharpExercises\Abstract Exercise\bin\Debug\net6.0\Abstract Exercise.pdb
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.dll
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\refint\Abstract Exercise.dll
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.pdb
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\Abstract Exercise.genruntimeconfig.cache
+c:\Dev\CsharpExercises\Abstract Exercise\obj\Debug\net6.0\ref\Abstract Exercise.dll
