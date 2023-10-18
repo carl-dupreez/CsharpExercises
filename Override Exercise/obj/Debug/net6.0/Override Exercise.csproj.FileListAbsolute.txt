@@ -1,0 +1,15 @@
+c:\Dev\CsharpExercises\Override Exercise\bin\Debug\net6.0\Override Exercise.exe
+c:\Dev\CsharpExercises\Override Exercise\bin\Debug\net6.0\Override Exercise.deps.json
+c:\Dev\CsharpExercises\Override Exercise\bin\Debug\net6.0\Override Exercise.runtimeconfig.json
+c:\Dev\CsharpExercises\Override Exercise\bin\Debug\net6.0\Override Exercise.dll
+c:\Dev\CsharpExercises\Override Exercise\bin\Debug\net6.0\Override Exercise.pdb
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.csproj.AssemblyReference.cache
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.AssemblyInfoInputs.cache
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.AssemblyInfo.cs
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.csproj.CoreCompileInputs.cache
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.dll
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\refint\Override Exercise.dll
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.pdb
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\Override Exercise.genruntimeconfig.cache
+c:\Dev\CsharpExercises\Override Exercise\obj\Debug\net6.0\ref\Override Exercise.dll

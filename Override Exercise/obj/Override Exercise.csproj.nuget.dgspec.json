@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\CsharpExercises\\Inheritance Exercise\\Inheritance Exercise.csproj": {}
+    "c:\\Dev\\CsharpExercises\\Override Exercise\\Override Exercise.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\CsharpExercises\\Inheritance Exercise\\Inheritance Exercise.csproj": {
+    "c:\\Dev\\CsharpExercises\\Override Exercise\\Override Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\CsharpExercises\\Inheritance Exercise\\Inheritance Exercise.csproj",
-        "projectName": "Inheritance Exercise",
-        "projectPath": "C:\\Dev\\CsharpExercises\\Inheritance Exercise\\Inheritance Exercise.csproj",
+        "projectUniqueName": "c:\\Dev\\CsharpExercises\\Override Exercise\\Override Exercise.csproj",
+        "projectName": "Override Exercise",
+        "projectPath": "c:\\Dev\\CsharpExercises\\Override Exercise\\Override Exercise.csproj",
         "packagesPath": "C:\\Users\\Carl\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\CsharpExercises\\Inheritance Exercise\\obj\\",
+        "outputPath": "c:\\Dev\\CsharpExercises\\Override Exercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Carl\\AppData\\Roaming\\NuGet\\NuGet.Config"
