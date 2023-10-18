@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj": {}
+    "C:\\Dev\\SampleProject\\SampleProject.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj": {
+    "C:\\Dev\\SampleProject\\SampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
-        "projectName": "Polymorphism Overloading Excercise",
-        "projectPath": "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
+        "projectUniqueName": "C:\\Dev\\SampleProject\\SampleProject.csproj",
+        "projectName": "SampleProject",
+        "projectPath": "C:\\Dev\\SampleProject\\SampleProject.csproj",
         "packagesPath": "C:\\Users\\carl\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Polymorphism Overloading Excercise\\obj\\",
+        "outputPath": "C:\\Dev\\SampleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carl\\AppData\\Roaming\\NuGet\\NuGet.Config"

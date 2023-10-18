@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Exercise B", "Class E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism Overloading Excercise", "Polymorphism Overloading Excercise\Polymorphism Overloading Excercise.csproj", "{873E7901-D59B-44F2-87B6-3EC01A7D6AF8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleProject", "SampleProject\SampleProject.csproj", "{BD26D5C8-ADF4-4D0A-9136-6E33E7AB2A5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{873E7901-D59B-44F2-87B6-3EC01A7D6AF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{873E7901-D59B-44F2-87B6-3EC01A7D6AF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{873E7901-D59B-44F2-87B6-3EC01A7D6AF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD26D5C8-ADF4-4D0A-9136-6E33E7AB2A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD26D5C8-ADF4-4D0A-9136-6E33E7AB2A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD26D5C8-ADF4-4D0A-9136-6E33E7AB2A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD26D5C8-ADF4-4D0A-9136-6E33E7AB2A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
