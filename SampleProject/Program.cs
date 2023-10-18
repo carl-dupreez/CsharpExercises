@@ -9,6 +9,10 @@ Sales.AddEmployee(alex);
 Sales.AddEmployee(linda);
 Sales.AddEmployee(John);
 
+Sales.describe();
+
 Department IT = new Department("XYZ IT");
 IT.AddEmployee(Sara);
 IT.AddEmployee(James);
+
+IT.describe();

@@ -10,16 +10,28 @@ class Department{
         this.deptBudget = 50000;
     }
 
-    public double AddEmployee(Employee emp){
+    public void AddEmployee(Employee emp){
         employees[counter] = emp;
         counter++;
 
         if (emp.empGrade >= 5){
-            return this.deptBudget += 150000;
+            this.deptBudget += 150000;
         }
         else
         {
-            return this.deptBudget += 100000;
+            this.deptBudget += 100000;
         }
+    }
+
+    public void describe(){
+        Console.WriteLine("Department name Name: {0}", this.deptName);
+        Console.WriteLine("Department Budget: {0}", this.deptBudget);
+
+        foreach (Employee employee in employees){
+            if (employee != null)
+            {
+                Console.WriteLine("Employee Salary: {0}", employee.getEmpName());
+            }
+        }      
     }
 }

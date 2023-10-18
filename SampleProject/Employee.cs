@@ -7,4 +7,8 @@ class Employee{
         this.empName = empName;
         this.empGrade = empGrade;
     }
+
+    public string getEmpName(){
+        return this.empName;
+    }
 }

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carl\\.nuget\\packages\\": {}
+    "C:\\Users\\Carl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Exercise B\\Exercise B.csproj",
+      "projectUniqueName": "C:\\Dev\\CsharpExercises\\Exercise B\\Exercise B.csproj",
       "projectName": "Exercise B",
-      "projectPath": "C:\\Dev\\Exercise B\\Exercise B.csproj",
-      "packagesPath": "C:\\Users\\carl\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Exercise B\\obj\\",
+      "projectPath": "C:\\Dev\\CsharpExercises\\Exercise B\\Exercise B.csproj",
+      "packagesPath": "C:\\Users\\Carl\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\CsharpExercises\\Exercise B\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Carl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

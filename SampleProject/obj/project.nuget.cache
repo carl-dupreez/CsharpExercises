@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nj5lVP2g/yeINSfU0LtiV/Kez3JKzHX9Ifu8N49IU3cM2znMEQPV858Iogcz7NCzDJqDD6WhgfsGK+vzf9zaIA==",
+  "dgSpecHash": "HY+0RPjFHIGE3xliNVAu9DZWtTywpUayq+iENZAiH5k+JXYBG0nlqrFhdTMtWqwHaJOGgIuAHbRSRYAlxZ8z1Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\SampleProject\\SampleProject.csproj",
+  "projectFilePath": "c:\\Dev\\CsharpExercises\\SampleProject\\SampleProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

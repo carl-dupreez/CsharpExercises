@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carl\\.nuget\\packages\\": {}
+    "C:\\Users\\Carl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
+      "projectUniqueName": "C:\\Dev\\CsharpExercises\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
       "projectName": "Polymorphism Overloading Excercise",
-      "projectPath": "C:\\Dev\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
-      "packagesPath": "C:\\Users\\carl\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Polymorphism Overloading Excercise\\obj\\",
+      "projectPath": "C:\\Dev\\CsharpExercises\\Polymorphism Overloading Excercise\\Polymorphism Overloading Excercise.csproj",
+      "packagesPath": "C:\\Users\\Carl\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\CsharpExercises\\Polymorphism Overloading Excercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Carl\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
