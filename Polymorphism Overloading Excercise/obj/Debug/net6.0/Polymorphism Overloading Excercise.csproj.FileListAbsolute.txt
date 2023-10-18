@@ -1,0 +1,15 @@
+c:\Dev\Polymorphism Overloading Excercise\bin\Debug\net6.0\Polymorphism Overloading Excercise.exe
+c:\Dev\Polymorphism Overloading Excercise\bin\Debug\net6.0\Polymorphism Overloading Excercise.deps.json
+c:\Dev\Polymorphism Overloading Excercise\bin\Debug\net6.0\Polymorphism Overloading Excercise.runtimeconfig.json
+c:\Dev\Polymorphism Overloading Excercise\bin\Debug\net6.0\Polymorphism Overloading Excercise.dll
+c:\Dev\Polymorphism Overloading Excercise\bin\Debug\net6.0\Polymorphism Overloading Excercise.pdb
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.csproj.AssemblyReference.cache
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.AssemblyInfoInputs.cache
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.AssemblyInfo.cs
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.csproj.CoreCompileInputs.cache
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.dll
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\refint\Polymorphism Overloading Excercise.dll
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.pdb
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\Polymorphism Overloading Excercise.genruntimeconfig.cache
+c:\Dev\Polymorphism Overloading Excercise\obj\Debug\net6.0\ref\Polymorphism Overloading Excercise.dll
